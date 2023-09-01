@@ -1,1 +1,1 @@
-Check that your variables are set up as **public** variables so that you can view them and edit their values in the Inspector. 
+Vérifie que tes variables sont configurées comme des variables **publiques** afin que tu puisses les voir et modifier leurs valeurs dans l'Inspector. 
